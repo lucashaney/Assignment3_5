@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SplitTheBillApp</string>
+    <string name="txtTitle">Split the Bill</string>
+    <string name="description">Split Bill Image</string>
+    <string name="btnCalculator">To Calculator</string>
+    <string name="txtBill">Enter Bill Amount</string>
+    <string name="txtPeople">Number of People</string>
+    <string name="prompt">Select Quality of Service</string>
+    <string-array name="txtServiceQuality">
+        <item>Excellent</item>
+        <item>Average</item>
+        <item>Poor</item>
+    </string-array>
+    <string name="btnSplit">Split</string>
+</resources>
